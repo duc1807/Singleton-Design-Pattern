@@ -1,0 +1,7 @@
+﻿  Assignment.cpp
+  Database.cpp
+  Generating Code...
+c:\users\admin\source\repos\c++\assignment\assignment\database.cpp(105): warning C4715: 'Database::getProduct': not all control paths return a value
+c:\users\admin\source\repos\c++\assignment\assignment\database.cpp(130): warning C4715: 'Database::getCollectionSize': not all control paths return a value
+c:\users\admin\source\repos\c++\assignment\assignment\database.cpp(119): warning C4715: 'Database::isEmpty': not all control paths return a value
+  Assignment.vcxproj -> C:\Users\ADMIN\source\repos\C++\Assignment\x64\Debug\Assignment.exe

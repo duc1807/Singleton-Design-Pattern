@@ -1,0 +1,21 @@
+﻿  Assignment.cpp
+c:\users\admin\source\repos\c++\assignment\assignment\menu.h(21): error C2065: 'Collection': undeclared identifier
+c:\users\admin\source\repos\c++\assignment\assignment\menu.h(21): error C2923: 'std::vector': 'Collection' is not a valid template type argument for parameter '_Ty'
+c:\users\admin\source\repos\c++\assignment\assignment\menu.h(21): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\admin\source\repos\c++\assignment\assignment\menu.h(21): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\admin\source\repos\c++\assignment\assignment\menu.h(39): error C2065: 'Product': undeclared identifier
+c:\users\admin\source\repos\c++\assignment\assignment\menu.h(39): error C2923: 'std::vector': 'Product' is not a valid template type argument for parameter '_Ty'
+c:\users\admin\source\repos\c++\assignment\assignment\menu.h(39): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\admin\source\repos\c++\assignment\assignment\menu.h(39): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+  Menu.cpp
+c:\users\admin\source\repos\c++\assignment\assignment\menu.h(21): error C2065: 'Collection': undeclared identifier
+c:\users\admin\source\repos\c++\assignment\assignment\menu.h(21): error C2923: 'std::vector': 'Collection' is not a valid template type argument for parameter '_Ty'
+c:\users\admin\source\repos\c++\assignment\assignment\menu.h(21): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\admin\source\repos\c++\assignment\assignment\menu.h(21): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\admin\source\repos\c++\assignment\assignment\menu.h(39): error C2065: 'Product': undeclared identifier
+c:\users\admin\source\repos\c++\assignment\assignment\menu.h(39): error C2923: 'std::vector': 'Product' is not a valid template type argument for parameter '_Ty'
+c:\users\admin\source\repos\c++\assignment\assignment\menu.h(39): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\admin\source\repos\c++\assignment\assignment\menu.h(39): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\admin\source\repos\c++\assignment\assignment\menu.cpp(6): error C2600: 'Menu::Menu': cannot define a compiler-generated special member function (must be declared in the class first)
+c:\users\admin\source\repos\c++\assignment\assignment\menu.cpp(11): error C2600: 'Menu::~Menu': cannot define a compiler-generated special member function (must be declared in the class first)
+  Generating Code...
